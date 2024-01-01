@@ -1,4 +1,5 @@
-![github-header-image (3)](https://github.com/09karankr/Chat_Application/assets/97887263/ff0cbe59-675a-4e95-ae1c-abfd3a5fc9fd)
+![github-header-image (4)](https://github.com/09karankr/Chat_Application/assets/97887263/d9d4e164-4260-4491-aa3a-541223306233)
+
 
 <img align="right" alt="Coding" width="400" src="https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif">
 

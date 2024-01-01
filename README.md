@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/09karankr/Chat_Application/assets/97887263/a884eea9-b916-4276-a536-7dc7a808ce37)
+![github-header-image (3)](https://github.com/09karankr/Chat_Application/assets/97887263/ff0cbe59-675a-4e95-ae1c-abfd3a5fc9fd)
+
 <img align="right" alt="Coding" width="400" src="https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=09karankr&label=Profile%20views&color=0e75b6&style=flat" alt="09karankr" /> </p>

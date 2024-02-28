@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h3 align="center">A passionate student software developer doing Native Android Development.</h3>
 
 
 
@@ -7,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/karan_09kr" target="blank"><img src="https://img.shields.io/twitter/follow/karan_09kr?logo=twitter&style=for-the-badge" alt="karan_09kr" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin,Jetpack Compose,XML views,MERN stack**
+- 🌱 I’m currently learning **Kotlin,Jetpack Compose,XML views,Ktor,Clean Architecture,Design Patterns**
 
-- 💬 Ask me about **Kotlin , Android development, Web Development**
+- 💬 Ask me about **Kotlin , Android development, Web development**
 
 - 📫 How to reach me **officialkaran39@gmail.com**
 
